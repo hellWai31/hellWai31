@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=30&center=true&vCenter=true&width=600&lines=hellWai31;Cybersecurity+Student;Pentesting+Learner;Linux+Enjoyer"/>
 </p>
 
-## 🏳️‍⚧️ About Me
+##  About Me 💜🩷🤍🩵🤍🩷💜
 
 💜 nickname: **hellWai31**  
 💖 learning: **Cybersecurity / Pentesting**  
